@@ -1,4 +1,4 @@
-package com.alejobeliz.proyectos.forohub;
+package com.alura.forohub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
